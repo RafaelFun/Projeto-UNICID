@@ -1,0 +1,30 @@
+html {
+  background-color: #925FE2;
+  color: #c2c2c2;
+  height: 100%;
+  width: 100%;
+}
+
+/*Dividir por 16 o px  */
+.login {
+  display: flex;
+  justify-content: center;
+  float: right;
+  top:0;
+  left: 0;
+  background-color: #333437;
+  height: 60rem;
+  width: 50rem;
+  
+}
+a{
+  color: white;
+}
+.butao{
+  
+  background-color: #9C6FE499;
+  width: 15rem;
+  height: 3rem;
+  border-radius: 10rem;
+  box-shadow: #9C6FE499;
+}
